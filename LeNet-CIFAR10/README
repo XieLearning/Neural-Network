@@ -1,2 +1,2 @@
 Using the LeNet to implement the CIFAR-10 classification.
-Because I don't tune the parameter,the test accuracy is 63.86%
+Because I did't tune the parameter,the test accuracy is 63.86%
